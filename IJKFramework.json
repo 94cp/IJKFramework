@@ -1,4 +1,7 @@
 {
 	"0.8.8": "https://github.com/cp110/IJKFramework/releases/download/0.8.8/IJKMediaFramework.framework.zip",
 	"1.0.0": "https://github.com/cp110/IJKFramework/releases/download/1.0.0/IJKMediaFramework.framework.zip",
+	"1.1.0": "https://github.com/cp110/IJKFramework/releases/download/1.1.0/IJKMediaFramework.lite.framework.zip",
+	"1.1.1": "https://github.com/cp110/IJKFramework/releases/download/1.1.0/IJKMediaFramework.lite.hevc.framework.zip",
+	"1.1.2": "https://github.com/cp110/IJKFramework/releases/download/1.1.0/IJKMediaFramework.default.framework.zip"
 }
